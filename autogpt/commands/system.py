@@ -1,4 +1,4 @@
-"""Commands to control the internal state of the program"""
+q"""Commands to control the internal state of the program"""
 
 from __future__ import annotations
 
